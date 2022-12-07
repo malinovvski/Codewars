@@ -9,7 +9,7 @@ You can assume, for the purpose of this kata, that the supplied array will not b
 */
 
 
-//solution 
+//solution by using spread syntax
 
 
 class SmallestIntegerFinder {
